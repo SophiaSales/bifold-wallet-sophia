@@ -1,5 +1,11 @@
 # @bifold/core
 
+## 2.11.13
+
+### Patch Changes
+
+- e718f5b: Allow unacceptable PIN list to be injected
+
 ## 2.11.12
 
 ### Patch Changes
